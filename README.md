@@ -33,7 +33,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I stuggled when I was implementing parse.build. Later it worked out, by adding something differnet implement that my instructor told me so. But later,  I learned I was supposed to paste another code in order to sync implement parse.build and it worked succesfully.
+
+Another thing, I struggle was when I run the the program, which worked out successfully, and then click login, it was not working. So later I talked with my instructor and found out that instead of http, I need to use https. 
+
 
 ## Open-source libraries used
 
